@@ -1,0 +1,28 @@
+1. Declaracion y asignacion de valores a variables. Se debe permitir multiples asignaciones en una sola linea y la
+   declaracion de multiples variables en una linea.
+	1. float, double (positivos y negativos)
+	2. int, long, short (positivos y negativos)
+	3. String
+	4. boolean
+	5. Arreglos unidimensionales
+	6. Arreglos bidimensionales
+2. Expresiones (expresiones simples o compuestas -mezcla de mas de un tipo de expresion- Se debe respetar la
+   precedencia de operadores.)
+	1. Aritmeticas
+		1. Suma, resta, multiplicacion, division, potencia, parentesis
+	2. Relacionales
+		1. Mayor que, mayor o igual que, menor que, menor o igual que, igual, diferente
+	3. Logicas
+		1. y, o, negacion
+3. Estructuras selectivas (simples y anidadas)
+	1. if, if-else, if-if else, if-if else-else simples y anidados
+	2. switch simple y anidado
+4. Estructuras repetitivas (simples y anidadas)
+	1. for
+	2. while
+	3. do-while
+5. Lectura de datos de pantalla. Utilizando la clase Scanner y los metodos next(), nextInt(), nextFloat(), etc.
+6. Impresion de mensajes en pantalla utilizando System.out.print y System.out.println().
+7. Declaracion de metodos: se permite la invocacion de un metodo dentro de otro metodo.
+	1. Recepcion de parametros.
+	2. Retorno de datos mediante la sentencia de return
